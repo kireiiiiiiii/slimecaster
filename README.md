@@ -1,12 +1,12 @@
 <img src="./public/banner.png" style="width: 100%;" />
 
-# 💚Slimecaster💚
+<h1 align="center"> 💚Slimecaster💚 </h1>
 
 **Slimecaster** is a fast-paced action game made in **GameMaker Studio 2**, where you play as a powerful slime mage fighting for survival against a rival species of red slimes.
 
 ## Project Description
 
-This is a **GameMaker Studio 2** project about a slime mage, battling his rival species — the scarlet slime — to survive. The king of this species, the one and only Gravul, King of the Scarlet Horde. The game is built with fun, fast action and magical abilities to keep players engaged in the fight for survival.
+This is a **GameMaker Studio 2** project about a slime mage, battling his rival species — the scarlet slime — to survive. The king of this species, the one and only Gravul, King of the scarlet slimes. The game is built with fun, fast action and magical abilities to keep players engaged in the fight for survival.
 
 ## Game Overview
 
@@ -18,7 +18,7 @@ In **Slimecaster**, you use a variety of magical slime abilities to shoot, reloa
 2. Left-click for single shots and right-click to unleash a powerful ten-shot burst.
 3. Use the `X` key to reload the burst cannon.
 4. Spin the mouse wheel for quick bursts of fire.
-
+  
 ## Controls
 
 - **Left Click**: Single shoot
@@ -38,14 +38,13 @@ Download the latest version of this game <a href="https://github.com/kireiiiiiii
 
 ## Screenshots
 
-<img src="./public/screenshots/gameplay.png" alt="gameplay screenshot" style="width: 100%;" />
-<img src="./public/screenshots/game_over.png" alt="game over screen" style="width: 100%;" />
-<img src="./public/screenshots/victory.png" alt="victory screen" style="width: 100%;" />
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="./public/screenshots/gameplay.png" alt="gameplay screenshot" style="width: 49%;" />
+  <img src="./public/screenshots/game_over.png" alt="game over screen" style="width: 49%;" />
+  <img src="./public/screenshots/victory.png" align="center" alt="victory screen" style="width: 49%;" />
+</div>
 
 ## Contact information
 
-This is a side project, made mainly for my Video game design class, but feel free to open an issue if you find a bug, or contact me on instagram <a href="https://www.instagram.com/_kireiiiiiiii?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">@_kireiiiiiiii</a>.
+This is a side project, made mainly for my Video game design class, but feel free to open an issue if you find a bug, or contact me on instagram <a href="https://www.instagram.com/_kireiiiiiiii?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">@_kireiiiiiiii</a>. I might return to this project if somebody would be interested in it :3
 
----
-
-Have fun casting your slime spells!
