@@ -1,50 +1,48 @@
+> [!NOTE]
+> This project represents its final, complete version and will likely not receive further updates as I’ve moved on to other projects.
+
 <img src="./public/banner.png" style="width: 100%;" />
 
-<h1 align="center"> 💚Slimecaster💚 </h1>
+# Slimecaster
 
-**Slimecaster** is a fast-paced action game made in **GameMaker Studio 2**, where you play as a powerful slime mage fighting for survival against a rival species of red slimes.
+**Slimecaster** is a **fast-paced action game** developed in **GameMaker Studio 2**, where you play as a powerful slime mage fighting for survival against a rival species of **scarlet slimes**. 
 
-## Project Description
+## 📝 Project Description  
 
-This is a **GameMaker Studio 2** project about a slime mage, battling his rival species — the scarlet slime — to survive. The king of this species, the one and only Gravul, King of the scarlet slimes. The game is built with fun, fast action and magical abilities to keep players engaged in the fight for survival.
+In **Slimecaster**, you control a magical **slime mage**, battling against relentless waves of **scarlet slimes**. Your ultimate goal is to **defeat Gravul**, the **King of the Scarlet Slimes**, before his forces overwhelm you. The game delivers **fast-paced combat, spellcasting mechanics, and intense survival gameplay** to keep players engaged.  
 
-## Game Overview
+## 🕹️ How to Play  
 
-In **Slimecaster**, you use a variety of magical slime abilities to shoot, reload, and defeat waves of enemy red slimes. The key to survival is mastering your spells and keeping up with the intense pace of the battle! The winning objective is striking down the king of the hoard.
+1. **Aim** at enemy slimes using your mouse.  
+2. **Left-click** for single shots.  
+3. **Right-click** to unleash a **ten-shot burst**.  
+4. **Press `X`** to reload your burst cannon.  
+5. **Use the mouse wheel** for **quick bursts of fire**. 
 
-## How to Play
+## 📥 Installation  
 
-1. Use your mouse to aim at the red slimes.
-2. Left-click for single shots and right-click to unleash a powerful ten-shot burst.
-3. Use the `X` key to reload the burst cannon.
-4. Spin the mouse wheel for quick bursts of fire.
-  
-## Controls
+Download  **Slimecaster** from the [latest release](https://github.com/kireiiiiiiii/Slimecaster/releases/latest). You can only download an `.exe`, because of GameMaker not supporting exporting for MacOS without a developer license costing about a $100 per year. (Sorry Mac users...). You can still play this game though by running it from source.
 
-- **Left Click**: Single shoot
-- **Right Click**: Ten-shot burst
-- **X**: Reload
-- **Mouse Wheel**: Quick fire
+### 🖥️ Running from Source  
 
-## Installation
+To run the game from the **source code**, follow these steps:  
 
-Download the latest version of this game <a href="https://github.com/kireiiiiiiii/Slimecaster/releases">here</a>.
+- **Clone or download** the repository
+- **Open the project** in **GameMaker Studio 2**
+- You have to use this or higher version of GameMaker, for the project to work: 
+   - IDE: v2024.8.1.171
+   - Runtime: v2024.8.1.218
+- **Build and run** the game
 
-## Installation from source code
-
-1. Clone or download the repository.
-2. Open the project in **GameMaker Studio 2**.
-3. Build and run the game to start battling enemy slimes!
-
-## Screenshots
+## 🖼️ Screenshots  
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="./public/screenshots/gameplay.png" alt="gameplay screenshot" style="width: 49%;" />
-  <img src="./public/screenshots/game_over.png" alt="game over screen" style="width: 49%;" />
-  <img src="./public/screenshots/victory.png" align="center" alt="victory screen" style="width: 49%;" />
-</div>
+  <img src="./public/screenshots/gameplay.png" alt="Gameplay Screenshot" style="width: 32%;" />
+  <img src="./public/screenshots/game_over.png" alt="Game Over Screen" style="width: 32%;" />
+  <img src="./public/screenshots/victory.png" alt="Victory Screen" style="width: 32%;" />
+</div>  
 
-## Contact information
+## 📢 Contact
 
-This is a side project, made mainly for my Video game design class, but feel free to open an issue if you find a bug, or contact me on instagram <a href="https://www.instagram.com/_kireiiiiiiii?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">@_kireiiiiiiii</a>. I might return to this project if somebody would be interested in it :3
-
+**Slimecaster** is a side project, originally created for my **Video Game Design class**. If you **find a bug** or have **feedback**, feel free to **open an issue** or reach out to me on **Instagram**:  
+📸 [@_kireiiiiiiii](https://www.instagram.com/_kireiiiiiiii), and I might come back to this.
